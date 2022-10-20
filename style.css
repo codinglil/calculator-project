@@ -33,7 +33,7 @@ td input:not(.display):hover {
   width: 98%;
   height: 55px;
   margin-bottom: 10px;
-  border: 2px solid rgb(1, 108, 74);
+  /* border: 2px solid rgb(1, 108, 74); */
   border-radius: 3px;
   text-align: right;
   font-size: 20px;
